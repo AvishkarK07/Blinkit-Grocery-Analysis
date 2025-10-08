@@ -28,18 +28,14 @@ ITEM TYPE</H1>
 • Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
-<H1>📅 Weekly Pattern:</H1>
-<img width="2313" height="1518" alt="weekly pattern" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/weekly%20pattern.png" />
+<H1>FAT CONTENT:</H1>
+<img width="2313" height="1518" alt="weekly pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/FAT%20CONTENT.png" />
 
-Distribution of transactions across the week.
+• Customers prefer Regular fat items over Low-fat ones, almost 2:1 ratio.
 
-Top-performing days:
+• This indicates that taste and preference may outweigh health considerations for most consumers.
 
-Friday (14.55%)
-
-Monday (14.51%)
-
-Wednesday (14.29%)
+• For business strategy, Blinkit might focus on maintaining strong availability of regular-fat items, while promoting low-fat options to health-conscious buyers to balance sales.
 
 Lowest traffic: Sunday (13.75%)
 <H1>📈 Revenue by Month:</H1>
