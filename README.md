@@ -43,7 +43,7 @@ Selection allows filtering insights per location.
 • This may suggest that medium outlets strike a balance between reach, cost, and efficiency—making them the most effective outlet size in terms of sales generation.
 
 <H1>ITEM ESTABLISHMENT:</H1>
-<img width="450" height="286" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20ESTABLISHMENT.png" />
+<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20ESTABLISHMENT.png" />
 
 • The outlet establishment values grew steadily for several years, hit a large peak in 2018, and then settled back to a stable level similar to pre-2018 numbers.
 
