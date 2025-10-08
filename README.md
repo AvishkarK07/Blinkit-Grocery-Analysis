@@ -6,20 +6,20 @@
 <H1>Blinkit-Analysis-Dashboard</H1>
 <img width="1008" height="570" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Dashboard.png" />
 The Blinkit sales dashboard provides a clear overview of business performance across outlets and product categories. The company achieved total sales of $1.20M from 8,523 items, with an average sale of $141 and a strong average customer rating of 4.1.Overall, the data suggests that Blinkit’s success is driven by medium-sized outlets, Tier 3 locations, and high-demand daily consumables, backed by solid customer satisfaction levels.
-<H1>📊 Overview</H1>
-The dashboard is divided into the following key section: Store Locations
+<H1>🎯 Objectives</H1>
+🎯 Objectives
 
-Analyzed locations:
+• Analyze Blinkit’s sales and delivery performance.
 
-Astoria
+• Identify key factors influencing customer satisfaction.
 
-Hell's Kitchen
+• Evaluate the relationship between discounts, sales, and ratings.
 
-Lower Manhattan
+• Visualize patterns and trends for better business decisions.
 
-Selection allows filtering insights per location.
+
 <H1>ITEM TYPE</H1>
-<img width="750" height="450" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
+<img width="750" height="450" alt="item type" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
 • Fruits and Vegetables and Snack Foods dominate the market.
 
 • Essential and frequently purchased items (like food, household, and dairy) perform better.
