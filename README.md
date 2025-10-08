@@ -19,10 +19,12 @@ Lower Manhattan
 
 Selection allows filtering insights per location.
 <H1>ITEM TYPE:</H1>
-<img width="450" height="1000" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
+<img width="1000" height="500" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
 • Fruits and Vegetables and Snack Foods dominate the market.
+
 • Essential and frequently purchased items (like food, household, and dairy) perform better.
-• Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales..
+
+• Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
 <H1>📅 Weekly Pattern:</H1>
