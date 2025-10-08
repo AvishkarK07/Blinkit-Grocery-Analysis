@@ -24,6 +24,7 @@ ITEM TYPE</H1>
 • Fruits and Vegetables and Snack Foods dominate the market.
 
 • Essential and frequently purchased items (like food, household, and dairy) perform better.
+
 • Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
