@@ -60,14 +60,8 @@ The Blinkit sales dashboard provides a clear overview of business performance ac
 
 • The 2018 surge might indicate a one-time event or investment boom, while the years after show normalization.
 <H1>✅ Summary</H1>
+<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https:https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/summary.png" />
 
-June Sales: $166,485.88
-
-June Target: $172,400.54
-
-Shortfall: -$5,914.66
-
-Goal for July: $183,134.47
 <H1>🏁 Conclusion</H1>
 
 This Blinkit Analysis project demonstrates how data-driven decision-making can improve efficiency and customer satisfaction in quick-commerce platforms.
