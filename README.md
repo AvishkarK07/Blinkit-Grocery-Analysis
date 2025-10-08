@@ -1,6 +1,6 @@
 # Blinkit-Grocery-Analysis
-![starbucks_coffee](https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Blinkit1.png?raw=true)
-<img width="1000" height="450" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/blinkit.jpg" />
+![Blinkit_analysis](https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Blinkit1.png?raw=true)
+![Blinkit_analysis](https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/blinkit3.jpg?raw=true)
 <H1>Tool Used :</H1>
 <img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
 <H1>Coffee_Sales_DashBoard</H1>
