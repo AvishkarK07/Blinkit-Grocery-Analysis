@@ -55,8 +55,6 @@ The Blinkit sales dashboard provides a clear overview of business performance ac
 
 <H1>📅ITEM ESTABLISHMENT</H1>
 <img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20ESTABLISHMENT.png" />
-<H1>📅ITEM ESTABLISHMENT</H1>
-<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20ESTABLISHMENT.png" />
 
 • The outlet establishment values grew steadily for several years, hit a large peak in 2018, and then settled back to a stable level similar to pre-2018 numbers.
 
