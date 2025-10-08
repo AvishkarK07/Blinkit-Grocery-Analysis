@@ -18,8 +18,7 @@ Hell's Kitchen
 Lower Manhattan
 
 Selection allows filtering insights per location.
-<H1>![Uploading image.png…]()
-ITEM TYPE</H1>
+<H1>ITEM TYPE</H1>
 <img width="750" height="450" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
 • Fruits and Vegetables and Snack Foods dominate the market.
 
@@ -36,20 +35,13 @@ ITEM TYPE</H1>
 
 • For business strategy, Blinkit might focus on maintaining strong availability of regular-fat items, while promoting low-fat options to health-conscious buyers to balance sales.
 
-<H1>📈 Revenue by Month:</H1>
-<img width="2565" height="1281" alt="revenue" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/Revanue%20by%20month.png" />
+<H1>OUTLET SIZE:</H1>
+<img width="400" height="500" alt="OUTLET" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/OUTLET%20SIZE.png" />
 
-Shows monthly revenue growth from January to June:
+• The medium-sized outlets are driving the highest revenue, followed by small outlets, while large (high) outlets underperform in comparison.
 
-January: $81,677.76
+• This may suggest that medium outlets strike a balance between reach, cost, and efficiency—making them the most effective outlet size in terms of sales generation.
 
-June: $166,485.88
-
-Target for June: $172,400.54
-
-Shortfall: -$5,914.66
-
-Next month (July) target: $183,134.47
 <H1>🛍️ Top-Selling Items:</H1>
 <img width="450" height="286" alt="Screenshot 2025-09-14 213647" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/Top%2010%20product.png" />
 
