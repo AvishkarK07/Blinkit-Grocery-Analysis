@@ -20,7 +20,7 @@ Lower Manhattan
 Selection allows filtering insights per location.
 <H1>![Uploading image.png…]()
 ITEM TYPE</H1>
-<img width="1000" height="500" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
+<img width="750" height="450" alt="daily pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/ITEM%20TYPE.png" />
 • Fruits and Vegetables and Snack Foods dominate the market.
 
 • Essential and frequently purchased items (like food, household, and dairy) perform better.
@@ -28,7 +28,7 @@ ITEM TYPE</H1>
 • Niche or less frequently bought items (like seafood and breakfast products) contribute less to total sales.
 
 <H1>FAT CONTENT:</H1>
-<img width="500" height="600" alt="weekly pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/FAT%20CONTENT.png" />
+<img width="400" height="500" alt="weekly pattern" src="https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/FAT%20CONTENT.png" />
 
 • Customers prefer Regular fat items over Low-fat ones, almost 2:1 ratio.
 
