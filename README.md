@@ -60,7 +60,7 @@ The Blinkit sales dashboard provides a clear overview of business performance ac
 
 • The 2018 surge might indicate a one-time event or investment boom, while the years after show normalization.
 <H1>✅ Summary</H1>
-<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https:https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/summary.png" />
+<img width="600" height="300" alt="Screenshot 2025-09-14 2136" src="https:https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/summary.png?raw=true" />
 
 <H1>🏁 Conclusion</H1>
 
