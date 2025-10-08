@@ -5,7 +5,7 @@
 <img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
 <H1>Blinkit-Analysis-Dashboard</H1>
 <img width="1008" height="570" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Dashboard.png" />
-This dashboard presents a comprehensive analysis of coffee sales across three Starbucks locations: Astoria, Hell's Kitchen, and Lower Manhattan. The visualized data includes sales trends, product performance, and transaction patterns to support decision-making and strategy adjustments
+The Blinkit sales dashboard provides a clear overview of business performance across outlets and product categories. The company achieved total sales of $1.20M from 8,523 items, with an average sale of $141 and a strong average customer rating of 4.1.
 <H1>📊 Overview</H1>
 The dashboard is divided into the following key section: Store Locations
 
